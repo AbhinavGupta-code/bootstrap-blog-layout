@@ -36,4 +36,3 @@ By completing this task, you will:
 
 ---
 
-write them in 1 line each — perfect for your GitHub repository setup.
